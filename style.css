@@ -57,13 +57,12 @@ main{
 }
 
 
-h3,p{
-  color: black;
-}
+
 
 h3{
   margin-top: 15px;
   margin-bottom: 5px;
+  font-size: 16px;
 }
 
 footer{
